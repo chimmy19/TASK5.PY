@@ -22,7 +22,7 @@ class Book:
 book1 = Book("Twisted Love", "Ana Huang", 640, True)
 book2 = Book("Twisted game", "Ana Huang", 134, True)
 book3 = Book("King of Wrath", "Ana Huang", 365, True)
-book4 = Book("Hunting Adeline", "H. D. Carlton", 13, False)
+book4 = Book("Hunting Adeline", "H. D. Carlton", 13, True)
 
 book1.our_books()
 book2.our_books()
